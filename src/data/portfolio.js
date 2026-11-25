@@ -11,7 +11,7 @@ export const ME = {
   name: 'Greeshma Girish',
   role: 'Full-Stack Developer',
   id: 'ID · 0426',
-  email: 'greeshmagirish108@gmail.com',
+  email: 'gee@gmail.com',
   phone: '+91 00000 00000',
   phoneHref: 'tel:+910000000000',
   li: 'linkedin.com/in/you',
