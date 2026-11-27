@@ -1,6 +1,6 @@
- <div align="center">
+ <div align="left">
 
-# Portfolio Desk
+# My Portfolio
 
 *A thoughtfully crafted interactive portfolio featuring fluid motion, refined 3D elements, and subtle animations.*
 
